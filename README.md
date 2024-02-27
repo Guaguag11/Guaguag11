@@ -45,7 +45,7 @@
 <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <td>
 <h3 align="center">Web Project</h3>
-<a href="https://github.com/Guaguag11/web_project_4_esp">
+<a href="https://guaguag11.github.io/web_project_4_esp/">
 <img src="https://raw.githubusercontent.com/Guaguag11/Guaguag11/main/imgweb.png">
 </a>
 </td>
