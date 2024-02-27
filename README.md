@@ -9,14 +9,14 @@
 <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <td>
 <h3 align="center" >Proyecto 1 - Curriculum</h3>
-<a href="https://frank345-sys.github.io/web_project_1_es/">
+<a href="https://github.com/Guaguag11/guagua-cv">
 <img style="" src="https://raw.githubusercontent.com/Guaguag11/Guaguag11/main/imgcv.png">
 </a>
 </td>
 <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <td>
 <h3 align="center" >Proyecto 2 - Librería online</h3>
-<a href="https://frank345-sys.github.io/web_project_3_esp/">
+<a href="https://github.com/Guaguag11/library">
 <img src="https://raw.githubusercontent.com/Guaguag11/Guaguag11/main/imglibrary.png">
 </a >
 </td>
@@ -26,14 +26,14 @@
 <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <td>
 <h3 align="center">Proyecto 3 - Catálogo de marca</h3>
-<a href="https://frank345-sys.github.io/web_project_4_esp/">
+<a href="https://github.com/Guaguag11/cat-logo">
 <img src="https://raw.githubusercontent.com/Guaguag11/Guaguag11/main/imgbucket.png">
 </a>
 </td>
 <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <td>
 <h3 align="center">Web Project</h3>
-<a href="https://frank345-sys.github.io/Mi-CV/">
+<a href="https://github.com/Guaguag11/web_project_4_esp">
 <img src="https://raw.githubusercontent.com/Guaguag11/Guaguag11/main/imgweb.png">
 </a>
 </td>
